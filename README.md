@@ -4,7 +4,7 @@ This repository comprises of a simple board game with two versions in it:
   2. Player 1 v/s AI
   
 # Rules for the Game:
-  1. Every player gets alternate chance to place make his/her move,i.e keep the coin
+  1. Every player gets alternate chance to make his/her move,i.e keep the coin.
   2. The player able to make a sequence of 4 coins(vertically or horizontally or diagonally) first Wins!
   
 # Prerequisites:
